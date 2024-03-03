@@ -7,9 +7,6 @@
 
 
 # Github-Jira-ticket-creation-project
-Creating a github webhook with the help of python script running in flask such that when a new issue is raised in the github a ticket is created in jira
-
-# GitHub-Jira-Token-Project
 
 This project creates a GitHub webhook using a Python script running in Flask. The webhook is designed to automatically create a Jira ticket when a new issue is raised in the GitHub repository.
 
